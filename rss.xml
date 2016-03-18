@@ -2,16 +2,17 @@
     <channel>
         <title><![CDATA[ElizabethP]]></title>
         <description><![CDATA[ElizabethP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elizabethp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 01:25:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 01:43:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elizabethp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Do you dream of working by the ocean, walking to local cafes for lunch and spying on otters after work?</p>]]></description>
-            <link>undefineddo-you-dream-of-working-by-the-ocean-walking-to-local-cafes/index.html</link>
+            <description><![CDATA[<p>Do you dream of working by the ocean, walking to local cafes for lunch and spying on otters after work? 
+</p>]]></description>
+            <link>https://thegrid.ai/elizabethp/do-you-dream-of-working-by-the-ocean-walking-to-local-cafes/index.html</link>
             <guid isPermaLink="false">ebe6afca-5ba1-45b4-8273-cc2d30bf7395</guid>
-            <pubDate>Fri, 18 Mar 2016 01:25:25 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 01:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
