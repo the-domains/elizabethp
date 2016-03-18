@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Do you dream of working by the ocean, walking to local cafes for lunch and spying on otters after work?\_\n"
-datePublished: '2016-03-18T01:42:48.235Z'
-dateModified: '2016-03-18T01:42:07.674Z'
-title: ''
+datePublished: '2016-03-18T01:44:18.819Z'
+dateModified: '2016-03-18T01:44:10.340Z'
+title: '498 Foam St. '
 author: []
 sourcePath: _posts/2016-03-18-do-you-dream-of-working-by-the-ocean-walking-to-local-cafes.md
 published: true
@@ -22,7 +22,7 @@ url: do-you-dream-of-working-by-the-ocean-walking-to-local-cafes/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a182d2-104b-4be8-af9c-ed8a444e7add.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79b8bc33-fbac-4365-9413-2221cb55a385.jpg)
 
 Do you dream of working by the ocean, walking to local cafes for lunch and spying on otters after work? 
 
@@ -32,4 +32,3 @@ Furnished office space - 1,400 Square Feet - - Functional floor plan - Ensuite b
 Offered for Lease at: $1.50 SF, plus Utilities 
 
 Call me for more info 646-1919 ext 1112
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2099232-c146-4f75-8a49-da0a22f72fda.png)
