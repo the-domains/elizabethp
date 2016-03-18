@@ -1,7 +1,7 @@
 name: ElizabethP
 favicon: null
-layout_spectrum: 0.1280770329758525
-typography_spectrum: 0.27255279780365527
+layout_spectrum: 0.12938
+typography_spectrum: 0.89358
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.1566398509312421
-  lightness: 0.14039607672020793
-  saturation: 0.10999907902441919
-  rhythmicContrast: 0.07451572525314987
+    - '#bad0e8'
+    - '#8b9db1'
+    - '#232524'
+    - '#fffffd'
+    - '#ffe35d'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
