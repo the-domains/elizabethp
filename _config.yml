@@ -1,19 +1,11 @@
 name: ElizabethP
-favicon: null
 layout_spectrum: 0.12938
 typography_spectrum: 0.89358
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#bad0e8'
@@ -26,3 +18,10 @@ color:
   saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
+title: 'Location, location, locatiin'
+author:
+  name: Elizabeth
+  url: ''
+  email: elipanetta@gmail.com
+content_rating:
+  adult: false
